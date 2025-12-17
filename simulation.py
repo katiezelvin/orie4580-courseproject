@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""The following test block contains code to run a simulation of Queries being processed in an LLM model. There is baseline model, a first-come, first-serve model, and an improved model, decode-priortizing with batching.
+""The following test block contains code to run a simulation of Queries being processed in an LLM model. There is baseline model, a first-come, first-serve model, and an improved model, decode-priortizing with batching.""
 """
 
 import numpy as np
